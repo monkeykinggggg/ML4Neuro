@@ -1,0 +1,11 @@
+.DS_Store
+Lab-1_Intro2NeuroImagingData_Segmentation/node_modules/
+Lab-1_Intro2NeuroImagingData_Segmentation/BIDS-dir/
+Lab-1_Intro2NeuroImagingData_Segmentation/subject_**
+*.pyc
+Lab6_ImageGeneration_from_fMRI_and_BCI/CLIP/
+Lab6_ImageGeneration_from_fMRI_and_BCI/DeepDive/
+Lab6_ImageGeneration_from_fMRI_and_BCI/DeepNSD/
+Lab6_ImageGeneration_from_fMRI_and_BCI/guided-diffusion/
+*.nii
+*.nii.gz
